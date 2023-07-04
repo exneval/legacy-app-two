@@ -1,1 +1,1 @@
-# E-Commerce Legacy App
+# E-Commerce Admin Legacy App
