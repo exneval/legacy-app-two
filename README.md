@@ -1,2 +1,1 @@
-# legacy-app-two
-E-Commerce Legacy App
+# E-Commerce Legacy App
